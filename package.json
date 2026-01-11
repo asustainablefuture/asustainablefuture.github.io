@@ -1,0 +1,26 @@
+{
+  "name": "asf-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mirror": "node scripts/mirror.mjs",
+    "serve": "node server.js",
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oof-baroomf/asf-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oof-baroomf/asf-website/issues"
+  },
+  "homepage": "https://github.com/oof-baroomf/asf-website#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
