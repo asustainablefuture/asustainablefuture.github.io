@@ -1,0 +1,104 @@
+{
+  "slug": "research",
+  "title": "Research | A Sustainable Future Network",
+  "description": "",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h2><span>Research</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Scroll to explore more</span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_a6123e165da14892ae68e804cd341d1b~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8684f3_a6123e165da14892ae68e804cd341d1b~mv2.png",
+      "alt": "1"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_348f6f6c1383461b9aea072c12e4a01c~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8684f3_348f6f6c1383461b9aea072c12e4a01c~mv2.png",
+      "alt": "2"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_cc8dff7d2aec48e5b47c591658381c19~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8684f3_cc8dff7d2aec48e5b47c591658381c19~mv2.png",
+      "alt": "7"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_af8c482764174eedb8293881e713eaa7~mv2.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ASF.png",
+      "alt": "ASF.png"
+    },
+    {
+      "type": "html",
+      "html": "<h1><span><span>National Printing Research</span></span></h1>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>ASF is conducting a nationwide printing study and would like to inform sustainable schools about our research as well as <span><a href=\"https://forms.gle/whiC4YaFj81Cfdvn6\" target=\"_blank\" rel=\"noreferrer noopener\">extend an invitation to participate</a></span> by providing printing records. ASF believes data from a sustainable school like yours can offer critical insights into optimizing paper usage and would be immensely grateful for contributions.&nbsp;</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><a href=\"https://docs.google.com/document/d/136NgMTf1FHjSw6nk_OugzNm9RdHOxhG02yNTiT1Rkbc/edit?usp=sharing\" target=\"_blank\" rel=\"noreferrer noopener\"><span><span><span>Official Research Letter</span></span></span></a></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>Submit Data</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Please read the Research Letter above before submitting data.</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>Student Research Process</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span>STEP ONE: LAY GROUNDWORK</span></span></span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span>STEP TWO: COLLECT DATA</span></span></span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span>STEP THREE: ANALYZE &amp; DERIVE</span></span></span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span>STEP FOUR: CONCLUDE &amp; PRESENT</span></span></span></h3>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_68b270e29956485d83e3c68a8d20d1c4~mv2.jpg/v1/fill/w_146,h_79,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8684f3_68b270e29956485d83e3c68a8d20d1c4~mv2.jpg",
+      "alt": "C5ncjirUYAAdvxl.jpg"
+    },
+    {
+      "type": "html",
+      "html": "<h2>Interested in Conducting Research with ASF?</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Use the link below to register for ASF's Paper Consumption Program</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><br>\nNews &amp; Press</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span>The Implications of AI in Academia: Student Guest Speaker</span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Generative AI Symposium</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Watch Carolyn speak on generative AI's impact in academia during the 2023 Inspirit AI Generative AI Symposium!</p>"
+    }
+  ]
+}

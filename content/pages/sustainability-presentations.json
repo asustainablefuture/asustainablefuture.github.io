@@ -1,0 +1,52 @@
+{
+  "slug": "sustainability-presentations",
+  "title": "Sustainability Presentations | A Sustainable Future",
+  "description": "Want to learn about sustainability on an ever deeper level? Check out some of our sustainability-themed presentations, brought to you by the same minds behind the website!",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/nsplsh_666963626977664f50536f~mv2_d_3840_2160_s_2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/nsplsh_666963626977664f50536f~mv2_d_3840_2160_s_2.jpg",
+      "alt": "Image by Tyler Casey"
+    },
+    {
+      "type": "html",
+      "html": "<h1>Sustainability Presentations</h1>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Want to learn about sustainability on an ever deeper level? Check out some of our sustainability-themed presentations, brought to you by&nbsp;the same minds behind the website!</span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/e92ca0_f86afa8c574842cbb3c98b1badaf0ce0~mv2.png/v1/fill/w_940,h_529,enc_auto/file.jpeg 1x, /static.wixstatic.com/media/e92ca0_f86afa8c574842cbb3c98b1badaf0ce0~mv2.png/v1/fill/w_1880,h_1058,enc_auto/file.jpeg 2x, /static.wixstatic.com/media/e92ca0_f86afa8c574842cbb3c98b1badaf0ce0~mv2.png/v1/fill/w_2820,h_1586,enc_auto/file.jpeg 3x",
+      "alt": "All Videos"
+    },
+    {
+      "type": "html",
+      "html": "<h2>The Implications of AI in Academia</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>A Presentation</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>In this presentation, I will explicitly be going over how AI is most typically being used in the educational setting today and what ramifications AI poses for academia's future. Namely, I will be addressing several concerns in energy efficiency, resource expenditures, and other issues of that nature. I will also be offering AI solutions for these problems, in hopes of accurately conveying the critical and astonishing potential AI poses for schools. By the end of my presentation, listeners should have a firmer understanding of the presence of AI in academia, and more importantly, how they can contribute!</p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_9f7a67487b024eb2b894fe29375efc2f~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1.png",
+      "alt": "1.png"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_022a3d14bf42457c95b6dfa7ba60350f~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2.png",
+      "alt": "2.png"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_7220d481914144a3952fd5d864424f39~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/13.png",
+      "alt": "13.png"
+    }
+  ]
+}

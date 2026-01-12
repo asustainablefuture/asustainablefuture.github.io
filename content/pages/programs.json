@@ -1,0 +1,239 @@
+{
+  "slug": "programs",
+  "title": "Programs | A Sustainable Future Network",
+  "description": "At A Sustainable Future, we believe every student deserves opportunities to make lasting environmental contributions to academia. Explore ways to bring environmental sustainability to academia through A Sustainable Future's curated workshops and step-by-step programs.",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h2><span>New Look Coming Soon</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Interact with a brand-new user interface and engage with our improved Paper Consumption Program; use the button below to become a Program Piloter. Feel free to continue using ASF's old Programs for the time being until we're ready to unveil the changes!</span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/a8fdda25916241a9a05253a435f1ae08.jpg/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_af8c482764174eedb8293881e713eaa7~mv2.png/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/da9d83ef63014589acac69d0c0f44f45.jpg/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_7f7a04c1c45c4febb409380cb9376b28~mv2.png/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_6f40a32f55a54ed39b35c83e71e21ae2~mv2.png/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/11062b_18fa50bb72b6446f8beea531457d9875~mv2_d_4000_2033_s_2.jpg/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/nsplsh_7c73fe906c7d4921baeb5e99b6316432~mv2.jpg/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/60d08bfb72ea461a9f9650705a931e8f.jpg/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_88d369f9f6d64f68bdfbcfc7de751cc0~mv2.png/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_dbe61a6ff4194cd9867334e1961410ce~mv2.png/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_62c983810fe84bfe8e0af8735c5dc56b~mv2.png/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_6329f295aad74cf49cb6a946d07f30f9~mv2.png/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/nsplsh_5eb4a3f19f914ca890f8058df91576d9~mv2.jpg/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_0d2319b8c2f249f7ad981a5f08ed0972~mv2.png/v1/fit/w_1000,h_800,al_c,q_90/file.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_62c983810fe84bfe8e0af8735c5dc56b~mv2.png/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_6f40a32f55a54ed39b35c83e71e21ae2~mv2.png/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/nsplsh_7c73fe906c7d4921baeb5e99b6316432~mv2.jpg/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_6329f295aad74cf49cb6a946d07f30f9~mv2.png/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/nsplsh_5eb4a3f19f914ca890f8058df91576d9~mv2.jpg/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/a8fdda25916241a9a05253a435f1ae08.jpg/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_88d369f9f6d64f68bdfbcfc7de751cc0~mv2.png/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/da9d83ef63014589acac69d0c0f44f45.jpg/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/60d08bfb72ea461a9f9650705a931e8f.jpg/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_dbe61a6ff4194cd9867334e1961410ce~mv2.png/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_af8c482764174eedb8293881e713eaa7~mv2.png/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_0d2319b8c2f249f7ad981a5f08ed0972~mv2.png/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_7f7a04c1c45c4febb409380cb9376b28~mv2.png/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/11062b_18fa50bb72b6446f8beea531457d9875~mv2_d_4000_2033_s_2.jpg/v1/fit/w_800,h_600,al_c,q_90/file.webp",
+      "alt": ""
+    },
+    {
+      "type": "html",
+      "html": "<h2>Get Involved</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>A Sustainable Future has just gotten started, and we have faith that it will unfurl into a nationwide environmental initiative with people like you. Join us in taking the first step towards A Sustainable Future.&nbsp;</span></p>\n\n<p>&nbsp;</p>\n\n<p><span><span>For position inquiries</span>, please fill out this Google Form: <span><a href=\"https://forms.gle/pSJntiZR7ovhoDeJ6\" target=\"_blank\" rel=\"noreferrer noopener\">https://forms.gle/xqsedpkbSjx9ALQ36</a></span></span></p>\n\n<p><span><span>​</span></span></p>\n\n<p><span><span>For collaboration inquiries, </span>please contact: <span><a href=\"mailto:asustainablefuturenetwork@gmail.com\" target=\"_self\">asustainablefuturenetwork@gmail.com</a></span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_c9f5ed3d1ebb46ccb2338a6595cd12f7~mv2.jpg/v1/fill/w_77,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/b35a51_c9f5ed3d1ebb46ccb2338a6595cd12f7~mv2.jpg",
+      "alt": "Medium_WW257147-1.jpg"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Position Application</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><a href=\"https://forms.gle/pSJntiZR7ovhoDeJ6\" target=\"_blank\" rel=\"noreferrer noopener\"><span><span>Position Application Form</span></span></a></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Membership Registration</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><a href=\"https://forms.gle/A6E2dQumgN6rZgMy8\" target=\"_blank\" rel=\"noreferrer noopener\"><span><span>School Membership Form</span></span></a></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Collaboration Inquiries</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><a href=\"mailto:asustainablefuturenetwork@gmail.com\" target=\"_self\"><span><span><span><span><span><span><span><span><span>asustainablefuturenetwork</span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span>@gmail.com</span></span></span></span></span></span></span></span></span></a></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Follow ASF Socials</span></span></span></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_0d6f5c01f66b4eef9d57514f31299c2e~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b35a51_0d6f5c01f66b4eef9d57514f31299c2e~mv2.png",
+      "alt": "images-removebg-preview"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/11062b_f642c87820384bd6b2a7c95d10b73a22~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_f642c87820384bd6b2a7c95d10b73a22~mv2.png",
+      "alt": "Discord"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png",
+      "alt": "Youtube"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6ea5b4a88f0b4f91945b40499aa0af00.png",
+      "alt": "LinkedIn"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "alt": "Instagram"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span>Contact ASF</span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>We'll Get Back Shortly!</span></p>"
+    }
+  ]
+}

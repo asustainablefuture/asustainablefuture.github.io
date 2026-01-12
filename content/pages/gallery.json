@@ -1,0 +1,165 @@
+{
+  "slug": "gallery",
+  "title": "Gallery | A Sustainable Future",
+  "description": "Original written features, artwork, and articles made by A Sustainable Future's dedicated task force of Research Directors",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_6f245820264d4ea5a85b4cd716ae6f4e~mv2.png/v1/fill/w_45,h_34,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/b35a51_6f245820264d4ea5a85b4cd716ae6f4e~mv2.png",
+      "alt": "download (2).png"
+    },
+    {
+      "type": "html",
+      "html": "<h3>A Sustainable Future Gallery</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>About Our Work</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>A Sustainable Future is a student-run, environmental nonprofit that is dedicated to creating a better future for our planet through a potent combination of advocacy, outreach, and content creation. The ASF Gallery features original artwork, poetry, and articles created by ASF's very own team of Research Directors. We invite you to explore the work of ASF's members and learn more about how we are working to create a brighter, more sustainable future.</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h4><span><span>Featured Posts</span></span></h4>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_f5d505a4ddb342509b38b149e28fe5d6~mv2.png/v1/fill/w_252,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_f5d505a4ddb342509b38b149e28fe5d6~mv2.webp",
+      "alt": "Humanity's Source of Inspiration - Partner Post!"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_f5d505a4ddb342509b38b149e28fe5d6~mv2.png/v1/fill/w_363,h_360,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_f5d505a4ddb342509b38b149e28fe5d6~mv2.webp",
+      "alt": "Humanity's Source of Inspiration - Partner Post!"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_78e83a644309438c869b8ab61fb85f82~mv2.png/v1/fill/w_362,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_78e83a644309438c869b8ab61fb85f82~mv2.webp",
+      "alt": "Envisioning the Future of Paper Consumption in the Next 30 Years"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_78e83a644309438c869b8ab61fb85f82~mv2.png/v1/fill/w_363,h_251,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_78e83a644309438c869b8ab61fb85f82~mv2.webp",
+      "alt": "Envisioning the Future of Paper Consumption in the Next 30 Years"
+    },
+    {
+      "type": "html",
+      "html": "<h3>Gallery</h3>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_0d97d1e91ace4eadb672d5e621a8e3a3~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_0d97d1e91ace4eadb672d5e621a8e3a3~mv2.webp",
+      "alt": "Whisper of the Leaves"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_0d97d1e91ace4eadb672d5e621a8e3a3~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_0d97d1e91ace4eadb672d5e621a8e3a3~mv2.webp",
+      "alt": "Whisper of the Leaves"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_09e253825170412a90853609379bc962~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_09e253825170412a90853609379bc962~mv2.webp",
+      "alt": "Environmental Identity"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_09e253825170412a90853609379bc962~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_09e253825170412a90853609379bc962~mv2.webp",
+      "alt": "Environmental Identity"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_56f00bf6df9449d080977981b48aaa40~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_56f00bf6df9449d080977981b48aaa40~mv2.webp",
+      "alt": "The Magic of Mycelium"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_56f00bf6df9449d080977981b48aaa40~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_56f00bf6df9449d080977981b48aaa40~mv2.webp",
+      "alt": "The Magic of Mycelium"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_ea7169af28df4378add374b0f5074029~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_ea7169af28df4378add374b0f5074029~mv2.webp",
+      "alt": "Empowering Communities Through Sustainable Agriculture"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_ea7169af28df4378add374b0f5074029~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_ea7169af28df4378add374b0f5074029~mv2.webp",
+      "alt": "Empowering Communities Through Sustainable Agriculture"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_204e0e4cb8ed46d38a4733d1a44f1282~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_204e0e4cb8ed46d38a4733d1a44f1282~mv2.webp",
+      "alt": "Reviving Our Oceans: Exploring the Depths of Marine Conservation"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_204e0e4cb8ed46d38a4733d1a44f1282~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_204e0e4cb8ed46d38a4733d1a44f1282~mv2.webp",
+      "alt": "Reviving Our Oceans: Exploring the Depths of Marine Conservation"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_9eaeb442babe4e03b4373616137f03a1~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_9eaeb442babe4e03b4373616137f03a1~mv2.webp",
+      "alt": "Deforestation: Impact and Potential Solutions"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_9eaeb442babe4e03b4373616137f03a1~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_9eaeb442babe4e03b4373616137f03a1~mv2.webp",
+      "alt": "Deforestation: Impact and Potential Solutions"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_8910fdfe6a144616b958b3ac9b5b9bc9~mv2.jpg/v1/fill/w_333,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/8684f3_8910fdfe6a144616b958b3ac9b5b9bc9~mv2.webp",
+      "alt": "Art and Sustainability: Fostering Environmental Consciousness through Creativity"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_8910fdfe6a144616b958b3ac9b5b9bc9~mv2.jpg/v1/fill/w_454,h_341,fp_0.50_0.50,q_90,enc_avif,quality_auto/8684f3_8910fdfe6a144616b958b3ac9b5b9bc9~mv2.webp",
+      "alt": "Art and Sustainability: Fostering Environmental Consciousness through Creativity"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_3c28ce97a8634bab978e7103b4b86d0e~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_3c28ce97a8634bab978e7103b4b86d0e~mv2.webp",
+      "alt": "Sustainable Architecture: Keys, Aspects, and concepts"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_3c28ce97a8634bab978e7103b4b86d0e~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_3c28ce97a8634bab978e7103b4b86d0e~mv2.webp",
+      "alt": "Sustainable Architecture: Keys, Aspects, and concepts"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_68b270e29956485d83e3c68a8d20d1c4~mv2.jpg/v1/fill/w_147,h_80,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8684f3_68b270e29956485d83e3c68a8d20d1c4~mv2.jpg",
+      "alt": "C5ncjirUYAAdvxl.jpg"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span><span><span><span><span>Interested in Conducting Research with ASF?</span></span></span></span></span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span>Visit the link below to apply and become an ASF Research Director</span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span><span><span>Application Form</span></span></span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span><span><span><span><br>\nNews &amp; Press</span></span></span></span></span></span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span><span><span><span><span><span>The Implications of AI in Academia: Student Guest Speaker</span></span></span></span></span></span></span></span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span><span><span><span>Generative AI Symposium</span></span></span></span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span>Watch Carolyn speak on generative AI's impact in academia during the 2023 Inspirit AI Generative AI Symposium!</span></span></span></span></span></span></p>"
+    }
+  ]
+}

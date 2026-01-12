@@ -1,23 +1,33 @@
-# ASF Website Clone
+# ASF Website (Next.js)
 
-Static mirror of `asustainablefuture.org` with local assets, a lightweight server, and Playwright smoke tests. Paid program pages are stubbed as free placeholders until the full materials are provided.
+React/Next.js rebuild of the A Sustainable Future site using locally stored Wix assets and extracted content blocks. Pages render from JSON in `content/` to keep edits simple.
 
 ## Quick start
 
 ```bash
 npm install
-npm run serve
+npm run dev -- --port 4173
 ```
 
 Open `http://127.0.0.1:4173`.
 
-## Refresh the mirror
+## Content updates
 
 ```bash
-npm run mirror
+npm run extract
 ```
 
-This pulls the latest pages listed in the public sitemaps, downloads assets into `site/`, and regenerates paid program placeholders + the free programs banner.
+`extract` expects the original HTML to live in `source/www.asustainablefuture.org/` (or the legacy `site/www.asustainablefuture.org/`). It outputs:
+
+- `content/pages/*.json` — page blocks (HTML + images)
+- `content/posts/*.json` — blog posts
+- `content/posts/index.json` — post index
+
+Site-wide navigation and footer content live in `content/site.json`.
+
+## Programs
+
+Program cards are sourced from `content/programs.json`. Each `challenge-page` route renders a free-access placeholder until full materials are provided.
 
 ## Tests
 
@@ -25,13 +35,14 @@ This pulls the latest pages listed in the public sitemaps, downloads assets into
 npm test
 ```
 
-Playwright uses the system Chromium at `/usr/bin/chromium`.
+Playwright uses the system Chromium at `/usr/bin/chromium` and boots `npm run dev -- --port 4173`.
 
 ## Project layout
 
-- `site/` — mirrored HTML and downloaded assets.
-- `data/urls.txt` — pages pulled from sitemaps.
-- `data/paid-programs.json` — paid program URLs + images (used for free placeholders).
-- `scripts/mirror.mjs` — mirroring and post-processing pipeline.
-- `server.js` — minimal static server.
-- `tests/` — Playwright smoke tests.
+- `app/` — Next.js App Router pages and layout
+- `components/` — shared React components
+- `lib/` — content loaders + helpers
+- `content/` — extracted JSON content
+- `public/` — downloaded assets from `static.wixstatic.com` and `static.parastorage.com`
+- `scripts/extract-content.mjs` — HTML → JSON extractor
+- `tests/` — Playwright smoke tests

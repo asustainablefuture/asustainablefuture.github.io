@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "mirror": "node scripts/mirror.mjs",
-    "serve": "node server.js",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "extract": "node scripts/extract-content.mjs",
     "test": "playwright test"
   },
   "repository": {
@@ -15,12 +17,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "dependencies": {
+    "next": "^15.5.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "cheerio": "^1.1.2"
+  },
+  "type": "module",
   "bugs": {
     "url": "https://github.com/oof-baroomf/asf-website/issues"
   },
-  "homepage": "https://github.com/oof-baroomf/asf-website#readme",
-  "devDependencies": {
-    "@playwright/test": "^1.57.0"
-  }
+  "homepage": "https://github.com/oof-baroomf/asf-website#readme"
 }

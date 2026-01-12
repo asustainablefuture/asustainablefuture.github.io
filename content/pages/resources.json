@@ -1,0 +1,64 @@
+{
+  "slug": "resources",
+  "title": "Resources | A Sustainable Future Network",
+  "description": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/nsplsh_73588e3c34814191a03f83068556bf2d~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/nsplsh_73588e3c34814191a03f83068556bf2d~mv2.jpg",
+      "alt": "Image by David Marcu"
+    },
+    {
+      "type": "html",
+      "html": "<h1>Resources</h1>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Thank you for joining the ASF Network!</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>From here, it is up to you how you wish to carry ASF's mission to your school. In the past, we have had students conduct research, create presentations, and design consumptions plans! Feel free to use the below examples as inspiration for your environmental endeavor...</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2>Initiatives</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>Research</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>​If you are interested in conducting research act your own school, below are two Google Forms templates that you can create copies of! Feel free to edit these two surveys however you wish to best suit your school's needs.</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>&nbsp;</p>\n\n<ul>\n<li>\n<p><span>Student Technology Survey [TEMPLATE] →&nbsp;<span><a href=\"https://forms.gle/ngf9d4VDxrJeKTRN9\" target=\"_blank\" rel=\"noreferrer noopener\">https://forms.gle/Ms6tzSaULnGpf82o9</a></span></span></p>\n</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n<li>\n<p><span>Faculty Paper Consumption Survey [TEMPLATE] →&nbsp;<span><a href=\"https://forms.gle/vbBt5kzcyBVzTzGn8\" target=\"_blank\" rel=\"noreferrer noopener\">https://forms.gle/Z6r7sErnjThvE71Y7</a></span></span></p>\n</li>\n</ul>\n\n<p><span>​</span></p>\n\n<ul>\n<li>\n<p><span>Paper or Digital Preference Survey [TEMPLATE] →&nbsp;<span><a href=\"https://forms.gle/1j87cuA5UyRyG3gEA\" target=\"_blank\" rel=\"noreferrer noopener\">https://forms.gle/1j87cuA5UyRyG3gEA&nbsp;</a></span></span></p>\n</li>\n</ul>\n\n<p><span><span><span>​</span></span></span></p>\n\n<ul>\n<li>\n<p><span>Paper Consumption Data Cleaning Sheet [TEMPLATE] →&nbsp;</span><span><span><a href=\"https://docs.google.com/spreadsheets/d/13liYSPrCXos_dPFFfACb7qJJQqCsb-U2xDyvSLdEjKA/edit?usp=sharing&nbsp;\" target=\"_blank\">https://docs.google.com/spreadsheets/d/13liYSPrCXos_dPFFfACb7qJJQqCsb-U2xDyvSLdEjKA/edit?usp=sharing&nbsp;</a></span></span></p>\n</li>\n</ul>\n\n<p><span><span><span>​</span></span></span></p>\n\n<ul>\n<li>\n<p><span>IRB Form [TEMPLATE] →&nbsp;<span><a href=\"https://docs.google.com/document/d/1kT51fjYfqrQS11KUgI4ml2AhhzkcpYqNIl-ihRRUoP8/edit?usp=sharing&nbsp;\" target=\"_blank\">https://docs.google.com/document/d/1kT51fjYfqrQS11KUgI4ml2AhhzkcpYqNIl-ihRRUoP8/edit?usp=sharing&nbsp;</a></span></span></p>\n</li>\n</ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>Presentations</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Spread ASF's mission by informing others in your community on the Responsible Production and Consumption of resources. Create and share captivating presentations to make resounding impacts; for examples, please see below:&nbsp;</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>​</span></p><ul><li><p>A Sustainable Future at RMS&nbsp;→&nbsp;<span><a href=\"https://www.youtube.com/watch?v=C3jxGvzZGCg\" target=\"_blank\" rel=\"noreferrer noopener\">https://www.youtube.com/watch?v=C3jxGvzZGCg</a></span>&nbsp;</p></li></ul><p><br></p><ul><li><p>Sustainable Students&nbsp;→&nbsp;<span><a href=\"https://www.youtube.com/watch?v=iJUSzJlZhcw\" target=\"_blank\" rel=\"noreferrer noopener\">https://www.youtube.com/watch?v=iJUSzJlZhcw</a></span></p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>Outreach</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>If you opted to share your data with the broader ASF network, feel free to share a summary of survey responses or a spreadsheet with the data.</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><br></p><p>Moreover, inform and invite others in your community to join in on the ASF Network! Every effort counts when it's for the environment :)</p>"
+    }
+  ]
+}

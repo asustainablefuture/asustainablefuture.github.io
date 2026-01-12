@@ -1,0 +1,43 @@
+{
+  "slug": "about",
+  "title": "Background | A Sustainable Future Network",
+  "description": "Consuming resources can include anything from eating food to using technology to warming homes. However, these conveniences come with a cost. Learn how ASF was inspired to address this issue.",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h1>The Problem</h1>"
+    },
+    {
+      "type": "html",
+      "html": "<p>From an Environmental Perspective</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Consuming resources can include anything from eating food to using technology to warming homes. However, these conveniences come with a cost. Humankind's irresponsible consumption of resources is exhausting Mother Nature, and—just a reminder—all humans depend on the earth for life.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2>Our Plan</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Humble Beginnings</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>So what did we&nbsp;plan to do?&nbsp;Reaching others through the mediums of&nbsp;videos and PowerPoints,&nbsp;we raised&nbsp;awareness about the importance of Responsible Consumption &amp; Production and its implications for sustainability in our community.</p><p><span>​</span></p><p>You can do the same!&nbsp;As a member of the ASF network, you are tasked with spreading mindfulness as well as conducting research on sustainable paper consumption. The ultimate mission is for students to design an ideal paper consumption plan for their school and present it to their local Board of Education.&nbsp;</p><p><span>​</span></p><p>In the beginning, ASF was just a group of passionate students who wanted to change their school for the better. Now, with the help of all of you, we can spread this mission around the world!</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2>Let's Get in Touch!</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Any inquiries? Comments? Ambitious plans? Feel free to contact ASF!</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Thanks for submitting!</p>"
+    }
+  ]
+}

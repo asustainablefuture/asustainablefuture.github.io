@@ -1,0 +1,100 @@
+{
+  "slug": "home",
+  "title": "Home | A Sustainable Future",
+  "description": "Harnessing and sharing the power of data to create mindful, sustainable resource consumption habits in the academic setting, one school at a time.",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/139562_01261efe2e9b412fa6027b607f799147~mv2.jpg/v1/fill/w_83,h_115,al_c,q_80,usm_0.66_1.00_0.01,blur_1,enc_auto/139562_01261efe2e9b412fa6027b607f799147~mv2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "html",
+      "html": "<h1><span>&nbsp;A Sustainable Future</span></h1>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Harnessing the power of data and technology to advocate for sustainable paper consumption in the academic setting—one school and one student at a time.</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>Welcome to the ASF Network</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span>“Harnessing the power of data and technology to advocate for sustainable paper consumption in the academic setting—one school at a time.”</span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>A Sustainable Future was founded on the basis of protecting our planet--starting with our schools. Every student deserves the opportunity to make lasting environmental contributions in academia. Hence, here at A Sustainable Future, we provide students with the resources to educate themselves and others on the importance of sustainable consumption.</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h5>Paper Consumption Model (PCM)</h5>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/139562_8d525b984e7d42129f4cde82160192b9~mv2.png/v1/fill/w_210,h_364,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/unnamed-removebg-preview.png",
+      "alt": "unnamed-removebg-preview.png"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span>Made for Schools, by Schools</span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Paper Consumption Model: advanced data-analysis tool that predicts and tailors a school’s paper usage for sustainable, cost-effective printing practices</span></p>\n\n<ul>\n<li>\n<p><span>Nationally-trained data analysis tool&nbsp;</span></p>\n</li>\n<li>\n<p><span>Sustainable, cost-effective printing practices</span></p>\n</li>\n</ul>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/139562_f92bf702ea7949df84da73c2c87e8e6e~mv2.jpg/v1/fill/w_77,h_116,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/139562_f92bf702ea7949df84da73c2c87e8e6e~mv2.jpg",
+      "alt": "leaf.JPG"
+    },
+    {
+      "type": "html",
+      "html": "<h5>Paper Consumption Program (PCP)</h5>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span><span><span>Made for Students, by Students</span></span></span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span><span><span>Paper Consumption Program: engages students in a research-based curriculum to create, present, and implement an original Paper Consumption Model (PCM) designed for their school</span></span></span></span></span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span><span><span>Research-based eco-advocacy curriculum</span></span></span></span></span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><span><span><span><span><span>Create, present, and implement an original PCM</span></span></span></span></span></h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span>Press</span></span></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/139562_94e45ea29f2e40bdba1db81f1a3b7609~mv2.jpg/v1/crop/x_0,y_34,w_357,h_449/fill/w_267,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/leafsss_JPG.jpg",
+      "alt": "leafsss.JPG"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span>Get Involved</span></span></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/e92ca0_03b5538655ea48e48292a03677e2a28f~mv2.png/v1/fill/w_234,h_234,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/A%20Sustainable%20Future%20Logo.png",
+      "alt": "A Sustainable Future Logo.png"
+    },
+    {
+      "type": "html",
+      "html": "<h6><span>ASF's Approach:</span></h6>"
+    },
+    {
+      "type": "html",
+      "html": "<ol>\n<li>\n<p>Tech-enabled</p>\n</li>\n<li>\n<p>Data-driven</p>\n</li>\n<li>\n<p>Student-centered</p>\n</li>\n</ol>\n\n<p><span>​</span></p>\n\n<p>ASF mitigates academic paper waste and facilitates the growth of students as environmental activists.&nbsp;</p>"
+    }
+  ]
+}

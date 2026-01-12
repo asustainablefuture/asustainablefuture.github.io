@@ -1,0 +1,222 @@
+{
+  "slug": "paper-consumption-model",
+  "title": "Paper Consumption Model | A Sustainable Future",
+  "description": "Trained on data collected from the academic setting, ASF’s publically available consumption model utilizes regression modeling to create a customizable consumption plan, tailored to help individual schools minimize their harmful environmental impact whilst streamlining expenses.",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h2><span><span>- Beta Version Now Available -</span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h4><br>\nHow it Works<br>\n&nbsp;</h4>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_53452c98599c47dc8f2a96a79273a2ec~mv2.png/v1/fill/w_394,h_318,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_53452c98599c47dc8f2a96a79273a2ec~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span>01</span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Users initialize the ASF Paper Consumption Model</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Our free, user-interactive paper consumption model can be publicly accessed via the following link:&nbsp;</span></p>\n\n<p><span><a href=\"https://oof-baroomf.github.io/asf-app/\" target=\"_blank\">https://oof-baroomf.github.io/asf-app/</a></span></p>\n\n<p><span><span>​</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>02</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Users select departments</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>OPTIONS: Mathematics, Science, Social Studies, English, World Language, Arts + Music, Business + Technology, Administration, Guidance, Health Office<br>\n<span>Note that the minimum number of departments selected is one, although the user does not need to choose more &nbsp;</span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_39c059d7bcac4313a041b21742ae649f~mv2.jpg/v1/fill/w_394,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited_edited.jpg",
+      "alt": "image_edited_edited.jpg"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/a3c153_b1efd27c479d430baf6513f717b4d7df~mv2.jpg/v1/fill/w_378,h_283,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/noah-boyer-mXz8dKrpO8w-unsplash.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_38c1c9c410e14d24a3008760118ab600~mv2.jpg/v1/fill/w_277,h_203,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited.jpg",
+      "alt": "image_edited.jpg"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span><span>Number of faculty members in each department</span></span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_e40e10f3018043b0bf339ffcf92762ce~mv2.jpg/v1/fill/w_295,h_157,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited.jpg",
+      "alt": "image_edited.jpg"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span>Average weekly consumption of all faculty members</span></span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_4267f84ab57847a6a8436f93a87e7125~mv2.jpg/v1/fill/w_310,h_157,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited.jpg",
+      "alt": "image_edited.jpg"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Chosen month to base consumption off of</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>03</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Users input model parameters</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Click on each tab to learn more about the parameters used in calculation.</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>04</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Model outputs yearly paper consumption estimates</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Paper and ink costs given for each department of interest.</span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_b03f04b530374cefaa380b9c4f6a8726~mv2.png/v1/fill/w_428,h_361,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_b03f04b530374cefaa380b9c4f6a8726~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_9c4b798b652941a5b858978c5c901b14~mv2.png/v1/fill/w_383,h_250,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_9c4b798b652941a5b858978c5c901b14~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span><span>User's consumption vs. other schools and by department</span></span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_c7e163d5073749bfb3f72023d83383e6~mv2.png/v1/fill/w_433,h_221,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_c7e163d5073749bfb3f72023d83383e6~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span><span>Trees, Liters of Water, Solid Waste, CO2 emissions, Sulfur Dioxide, Air Pollutants, Organic Compounds</span></span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_4fed7dd846ca43dc911c9fa54e29d066~mv2.png/v1/fill/w_433,h_189,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_4fed7dd846ca43dc911c9fa54e29d066~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span><span>Visualization of trends over time based on past inputs in the model.</span></span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span>05</span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Users receive additional consumption metrics</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Consumption Comparison:&nbsp;</span></p>\n\n<ul>\n<li>\n<p><span>Other schools</span></p>\n</li>\n<li>\n<p><span>Between departments</span></p>\n</li>\n<li>\n<p><span>Trends over time</span></p>\n</li>\n</ul>\n\n<p><span>Environmental Impact:</span></p>\n\n<ul>\n<li>\n<p><span>Trees,&nbsp;</span><span>Liters of Water, Solid Waste, CO2 emissions, Sulfur Dioxide, Air Pollutants, Organic Compounds</span><br>\n&nbsp;</p>\n</li>\n</ul>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span>06</span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Model outputs recommended paper budgeting plan</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Price and paper ranges given for 1) yearly consumption, 2) 10% cost reduction, 3) 25% paper usage reduction</span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_d0c9929b6a3745908b2946e9258829cb~mv2.png/v1/fill/w_393,h_330,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_d0c9929b6a3745908b2946e9258829cb~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_7695639d566e434a89306e4ba7e263c3~mv2.jpg/v1/fill/w_386,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited.jpg",
+      "alt": "image_edited.jpg"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_ae50ee423f404d9c8496d4df54d57443~mv2.png/v1/fill/w_367,h_248,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_ae50ee423f404d9c8496d4df54d57443~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_9392600522fd429b921b3f77ee16f543~mv2.png/v1/fill/w_378,h_248,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_9392600522fd429b921b3f77ee16f543~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/16286a_9bcda61b5f89412dbb03405ffbc231da~mv2.png/v1/fill/w_378,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/16286a_9bcda61b5f89412dbb03405ffbc231da~mv2.png",
+      "alt": "image.png"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span>07</span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span><span><span>Users receive sustainable practice recommendations for implementation</span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Recommendations vary based on theie calculated sustainability level:</span></p>\n\n<ol>\n<li>\n<p><span>Most fundamental recommendations, with a focus on reducing paper waste and paper usage</span></p>\n</li>\n<li>\n<p><span>Intermediate level, a versatile range of technological and non-technological options for combatting irresponsible paper usage&nbsp;</span></p>\n</li>\n<li>\n<p><span>Advanced recommendations: most technology-heavy and engaged ideas for implementation at schools aiming to devote attention to paper sustainability</span></p>\n</li>\n</ol>\n\n<p><span>​</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h4>Send Model Feedback to ASF!</h4>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>[send data]</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h5>ASF Model Feedback Form</h5>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Alternatively, you can fill out the feedback form here.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span>Send Paper Data!</span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Thanks for your feedback!</span></span></p>"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "recipes",
+  "title": "Recipes | A Sustainable Future",
+  "description": "Sustainability made simple with convenient, easy-to-follow recipes with common ingredients found at home!",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/nsplsh_1b89cbd8ef644d0d8675ca799de5c59e~mv2.jpg/v1/fill/w_86,h_114,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/nsplsh_1b89cbd8ef644d0d8675ca799de5c59e~mv2.jpg",
+      "alt": "Image by Kevin McCutcheon"
+    },
+    {
+      "type": "html",
+      "html": "<h1><span><span><span><span><span><span><span><span>Recipes</span></span></span></span></span></span></span></span></h1>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span><span><span>These are some recipes with ingredients we are almost sure you already have. Feel free to make some!</span></span></span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span><span><span><span><span><span><span><span>Each recipe was developed and tested by an ASF Research Developer; online inspiration will be credited wherever applicable.</span></span></span></span></span></span></span></span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_1d863b36680b43f79598afee06b4f1da~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_1d863b36680b43f79598afee06b4f1da~mv2.webp",
+      "alt": "Green Goddess Bowl"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_1d863b36680b43f79598afee06b4f1da~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_1d863b36680b43f79598afee06b4f1da~mv2.webp",
+      "alt": "Green Goddess Bowl"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_32ae4115e8904823bdd2ae5b6f76de25~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_32ae4115e8904823bdd2ae5b6f76de25~mv2.webp",
+      "alt": "Harvest-Season Stuffed Bell Peppers"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_32ae4115e8904823bdd2ae5b6f76de25~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_32ae4115e8904823bdd2ae5b6f76de25~mv2.webp",
+      "alt": "Harvest-Season Stuffed Bell Peppers"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_485ae5da010d454fadb6c33f26364122~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_485ae5da010d454fadb6c33f26364122~mv2.webp",
+      "alt": "Middle Eastern Recipes #4 -- Fesenjan"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_485ae5da010d454fadb6c33f26364122~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_485ae5da010d454fadb6c33f26364122~mv2.webp",
+      "alt": "Middle Eastern Recipes #4 -- Fesenjan"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_e4a8cd46ccbc42c48fb0cd564dc61ad3~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/8684f3_e4a8cd46ccbc42c48fb0cd564dc61ad3~mv2.webp",
+      "alt": "Middle Eastern Recipes #3 -- Borek"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_e4a8cd46ccbc42c48fb0cd564dc61ad3~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/8684f3_e4a8cd46ccbc42c48fb0cd564dc61ad3~mv2.webp",
+      "alt": "Middle Eastern Recipes #3 -- Borek"
+    }
+  ]
+}

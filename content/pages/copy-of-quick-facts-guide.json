@@ -1,0 +1,260 @@
+{
+  "slug": "copy-of-quick-facts-guide",
+  "title": "Quick Facts Guide | A Sustainable Future",
+  "description": "Prepare to be introduced to some quick facts about sustainable consumption and production!",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/e92ca0_0f6396e6c3e24b4dbb20be0ca5bb082c~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e92ca0_0f6396e6c3e24b4dbb20be0ca5bb082c~mv2.png",
+      "alt": "Title Slide.png"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_776c3e7201d6421db351bd29cd7d9a7b~mv2.png/v1/fill/w_884,h_414,al_c,q_90,enc_avif,quality_auto/Slide%201_edited.png",
+      "alt": "Slide 1_edited.png"
+    },
+    {
+      "type": "html",
+      "html": "<h1>Prepare to be introduced to some quick facts about sustainable consumption and production!</h1>"
+    },
+    {
+      "type": "html",
+      "html": "<h2>The Ugly Facts</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>60%</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>of total global greenhouse gas emissions</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>come from demand for energy, making it the dominating contributor to climate change...</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>27,000</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>trees are cut down each day</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>The world has over 3.04 trillion trees in the world. However, 27,000 of them are cut down daily to make toilet paper. This translates to about 9.8 million trees annually. One single recycled edition of the New York Times newspaper could save 75,000 tree</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>78%</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>of marine mammals are at risk of choking on plastic</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Seventy-eight percent of marine mammals are at risk of accidental deaths, such as getting caught in fishing nets. Plastic bags and other plastic garbage that ends up in the ocean kill over 1,000,000 sea animals every year.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>60,000,000</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>paper bags are used by a single supermarket each year, on average&nbsp;</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>One of the best ways to cut down on single-use bags-both paper and plastic-is to switch to reusable.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_01090e579be243c184d0512576251254~mv2.jpg/v1/crop/x_110,y_0,w_980,h_675,q_85,blur_2,enc_avif,quality_auto/b35a51_01090e579be243c184d0512576251254~mv2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_01bf1ae7cd3e4a4ca0a1bd843b751645~mv2.jpg/v1/crop/x_186,y_0,w_980,h_608,q_85,blur_2,enc_avif,quality_auto/b35a51_01bf1ae7cd3e4a4ca0a1bd843b751645~mv2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_85029440dab2458f9a30082855af9c1d~mv2.jpg/v1/crop/x_191,y_0,w_980,h_592,q_85,blur_2,enc_avif,quality_auto/b35a51_85029440dab2458f9a30082855af9c1d~mv2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>The Truth About Paper</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>I</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>High Emitters of CO2</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>In 2021, the paper and pulp industry was responsible for emitting 190,000,000 metric tons of CO2 emissions, the 4th largest contribution to greenhouse gasses in the US overall (IEA and The World Counts)</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>II</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Destroyer of Forests and Ecosystems</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Numerous paper production companies, such as Charmin, have also failed to comply with basic environmental standards in sourcing paper. To keep up with current resource demands, companies have harvested from Canada's Boreal Forest, the largest remaining intact forest in the world. These companies are engaging in more than just deforestation--clear cutting forests is releasing enormous amounts of greenhouse gases into the atmosphere and displacing millions of boreal forest inhabitants.</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>III</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Wasted Treasure</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Although trees are renewable resources, the pace at which they grow makes it difficult to replace felled trees or reverse disruptions to ecosystems. Unfortunately, paper often isn’t recycled properly either, with 35% of all waste containing paper, which can result in byproducts that emit potent methane that is 25x more toxic for the atmosphere than CO2 (The World Counts).</span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/2ff2bbaac10172ff5a14972147f42223.jpg/v1/fill/w_147,h_72,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2ff2bbaac10172ff5a14972147f42223.jpg",
+      "alt": "Snowy Forest"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>...To produce a single stack of paper</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>500</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>liters of water</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>2000</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>grams of solid waste</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>6000</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>grams of CO2</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>6%</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>of a tree</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>​A Voracious Appetite for Paper:</span></p>\n\n<ul>\n<li>\n<p>Global paper use has increased by 400% in the last 40 years.</p>\n</li>\n<li>\n<p>Average person in the US uses more than 700 pounds of paper every year. That’s the highest paper usage figure per capita worldwide.</p>\n</li>\n<li>\n<p>In the last 20 years, the usage of paper products in the US reached 208 million tons (up from 92 million), which is a growth of 126%.</p>\n</li>\n<li>\n<p>On average Americans use 7 trees per person a year in paper, wood, and other products made from trees. This amounts to approximately 2 billion trees per year!</p>\n</li>\n<li>\n<p>An estimated 18 million acres of forest are lost each year to paper production. That’s the equivalent of 20 football fields every minute.</p>\n</li>\n</ul>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Source: EPN</span></span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Source: EPN</span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/b35a51_3f2505c18c384ce68a2d71a15a8af16c~mv2.jpg/v1/crop/x_178,y_0,w_980,h_388,q_85,blur_2,enc_avif,quality_auto/b35a51_3f2505c18c384ce68a2d71a15a8af16c~mv2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/e92ca0_de51802665d449e298ee2d39c74b31b3~mv2.png/v1/fill/w_940,h_440,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Slide%206.png",
+      "alt": "Slide 6.png"
+    },
+    {
+      "type": "html",
+      "html": "<h2>There's More!</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>I</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Recycling one glass bottle saves enough energy to power a normal light bulb for about four hours.&nbsp;</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>While glass does not decompose easily, recycling it might be more beneficial to the environment. The recycling of one glass bottle not only&nbsp;<span><a href=\"https://www.conserve-energy-future.com/20-energy-saving-tips-reduce-business-energy-costs.php\" target=\"_blank\" rel=\"noreferrer noopener\">saves energy</a></span>&nbsp;but the energy saved can also power a normal light bulb for about four hours.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>II</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Paper from trees can be recycled 6 times.&nbsp;</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Paper comes from trees and can be recycled a maximum of six times, after which, its fibers become too weak to hold together.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>III</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>Say no to plastic bags!</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>A plastic bag is used for an average of 12 minutes but will remain in the environment for 1,000 years before it decomposes</p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/e92ca0_4d8a4571e13a4c45888a0f1a7840573b~mv2.png/v1/crop/x_125,y_0,w_980,h_660,q_90,blur_2,enc_avif,quality_auto/e92ca0_4d8a4571e13a4c45888a0f1a7840573b~mv2.png",
+      "alt": "Slide 5.png"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>Actions needn’t be grand nor bombastic in order to enact true change. Everyone can contribute to the climate movement, one action, one fact, and one community at a time.</span><br>\n<br>\n<span><span><span><span>These are the first steps towards A Sustainable Future</span></span></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h2>THANK YOU</h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>for devoting your attention to the environment!</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Feel free to check out some of our sources for more incredible information!</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>50 facts for 50 years - Georgetown</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2>https://sustainability.georgetown.edu/50-facts-for-50-years/</h2>"
+    }
+  ]
+}

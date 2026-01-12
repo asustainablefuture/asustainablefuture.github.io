@@ -1,0 +1,66 @@
+{
+  "slug": "environmental-help-center",
+  "title": "Environmental Help Center | A Sustainable Future",
+  "description": "ASF's Environmental Help Center is an all-things-sustainable database for individuals who are seeking ways to incorporate more sustainability into their daily lives, be it through sustainable consumption practices, resourceful tips, or unique new hobbies! A Sustainable Future’s Environmental Help Center provides users with an immersive experience to gauge their current sustainability levels and offers resources to help them better understand—as well as practice—sustainability.",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_e6d1a1513e50414bb4d3c4d40e495987~mv2.jpeg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8684f3_e6d1a1513e50414bb4d3c4d40e495987~mv2.jpeg",
+      "alt": "pine-trees-in-a-dark-foggy-forest-free-photo.jpeg"
+    },
+    {
+      "type": "html",
+      "html": "<h1><span><span>ASF's Environmental Help Center</span></span></h1>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span><span>Brought to you by the same minds behind A Sustainable Future</span></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_89ad084afb1e44d290bdc09086b0cf95~mv2.png/v1/fill/w_48,h_24,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8684f3_89ad084afb1e44d290bdc09086b0cf95~mv2.png",
+      "alt": "Screenshot 2023-07-04 182557.png"
+    },
+    {
+      "type": "image",
+      "src": "/static.wixstatic.com/media/8684f3_89ad084afb1e44d290bdc09086b0cf95~mv2.png/v1/fill/w_59,h_30,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8684f3_89ad084afb1e44d290bdc09086b0cf95~mv2.png",
+      "alt": "Screenshot 2023-07-04 182557.png"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>Embark on the path towards&nbsp;<br>\n<span><a href=\"/\" target=\"_blank\" rel=\"noreferrer noopener\">A Sustainable Future.</a></span></span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p><span>ASF's Environmental Help Center is an all-things-sustainable database for individuals who are seeking ways to incorporate more sustainability into their daily lives, be it through sustainable consumption practices, resourceful tips, or unique new hobbies! A Sustainable Future’s Environmental Help Center provides users with an immersive experience to gauge their current sustainability levels and offers resources to help them better understand—as well as practice—sustainability.</span></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><span>Whether you’re new to the climate movement or a life-long environmental advocate, ASF's Environmental Help Center is here to help you...</span></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>I</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Recognize the current climate crisis we’re facing</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>II</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Better understand YOUR individual impact on the environment</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3>III</h3>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Become a better advocate and a more sustainable inhabitant of planet Earth</p>"
+    }
+  ]
+}
