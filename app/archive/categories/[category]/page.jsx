@@ -9,15 +9,17 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const category = decodeURIComponent(params.category);
+  const { category } = await params;
+  const decoded = decodeURIComponent(category);
   return {
-    title: `${category} | Archive | A Sustainable Future`,
+    title: `${decoded} | Archive | A Sustainable Future`,
   };
 }
 
 export default async function CategoryPage({ params }) {
-  const category = decodeURIComponent(params.category);
-  const posts = await getPostsByCategory(category);
+  const { category } = await params;
+  const decoded = decodeURIComponent(category);
+  const posts = await getPostsByCategory(decoded);
 
   if (!posts.length) {
     notFound();
@@ -26,8 +28,8 @@ export default async function CategoryPage({ params }) {
   return (
     <section className="page">
       <div className="archive-header">
-        <h1>{category}</h1>
-        <p>Posts in the {category} collection.</p>
+        <h1>{decoded}</h1>
+        <p>Posts in the {decoded} collection.</p>
         <p>
           <Link href="/archive">Back to Archive</Link>
         </p>

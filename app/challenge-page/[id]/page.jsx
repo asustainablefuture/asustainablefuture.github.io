@@ -8,7 +8,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const program = await getProgramById(params.id);
+  const { id } = await params;
+  const program = await getProgramById(id);
   if (!program) {
     return { title: "Program Not Found | A Sustainable Future" };
   }
@@ -16,7 +17,8 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function ProgramDetail({ params }) {
-  const program = await getProgramById(params.id);
+  const { id } = await params;
+  const program = await getProgramById(id);
   if (!program) {
     notFound();
   }

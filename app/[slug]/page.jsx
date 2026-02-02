@@ -13,7 +13,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const page = await getPage(params.slug);
+  const { slug } = await params;
+  const page = await getPage(slug);
   if (!page) {
     return {
       title: "Page Not Found | A Sustainable Future",
@@ -26,11 +27,12 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function Page({ params }) {
-  if (RESERVED.has(params.slug)) {
+  const { slug } = await params;
+  if (RESERVED.has(slug)) {
     notFound();
   }
 
-  const page = await getPage(params.slug);
+  const page = await getPage(slug);
   if (!page) {
     notFound();
   }

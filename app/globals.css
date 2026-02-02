@@ -24,6 +24,9 @@
   --accent: #2f4739;
   --accent-light: #6c8870;
   --border: rgba(47, 71, 57, 0.2);
+  --surface: rgba(255, 255, 255, 0.86);
+  --surface-strong: #fffdf8;
+  --shadow: 0 18px 50px rgba(47, 71, 57, 0.12);
 }
 
 * {
@@ -34,7 +37,8 @@ body {
   margin: 0;
   font-family: "Cormorant Garamond", "Times New Roman", serif;
   color: var(--text);
-  background: radial-gradient(circle at top, #f7f2e8, var(--bg));
+  background:
+    radial-gradient(circle at top, #faf6ee 0%, #f3ebde 55%, #e8e0cf 100%);
   line-height: 1.7;
 }
 
@@ -82,7 +86,7 @@ ol {
 
 .site-main {
   flex: 1;
-  padding: 2.5rem 1.5rem 4rem;
+  padding: 3.25rem 1.5rem 5rem;
 }
 
 .container {
@@ -95,9 +99,10 @@ ol {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: rgba(244, 239, 228, 0.92);
+  background: rgba(244, 239, 228, 0.95);
   border-bottom: 1px solid var(--border);
   backdrop-filter: blur(6px);
+  box-shadow: 0 12px 30px rgba(47, 71, 57, 0.08);
 }
 
 .header-inner {
@@ -134,17 +139,25 @@ ol {
 }
 
 .site-nav a {
-  padding-bottom: 0.25rem;
-  border-bottom: 1px solid transparent;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  transition: all 0.2s ease;
 }
 
 .site-nav a:hover {
-  border-bottom-color: var(--accent-light);
+  border-color: var(--accent-light);
+  background: rgba(108, 136, 112, 0.12);
 }
 
 .page {
   max-width: 950px;
   margin: 0 auto;
+  background: var(--surface);
+  border-radius: 28px;
+  border: 1px solid var(--border);
+  padding: 2.75rem 3rem;
+  box-shadow: var(--shadow);
 }
 
 .page-title {
@@ -155,27 +168,39 @@ ol {
 .content-blocks {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 1.75rem;
 }
 
 .content-image {
   margin: 1.5rem auto;
-  max-width: 700px;
-  border-radius: 12px;
+  max-width: 760px;
+  border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 12px 30px rgba(47, 71, 57, 0.12);
+  box-shadow: var(--shadow);
 }
 
 .content-html span {
   font-family: inherit;
 }
 
+.content-html {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+}
+
+.content-html h1,
+.content-html h2 {
+  text-align: center;
+}
+
 .programs-free {
   margin: 3rem 0 2rem;
   padding: 1.5rem;
   border: 1px solid var(--border);
-  background: #fffaf1;
-  border-radius: 16px;
+  background: var(--surface-strong);
+  border-radius: 18px;
+  box-shadow: 0 10px 24px rgba(47, 71, 57, 0.08);
 }
 
 .programs-free h2 {
@@ -190,10 +215,16 @@ ol {
 
 .program-card {
   border: 1px solid var(--border);
-  border-radius: 14px;
+  border-radius: 18px;
   overflow: hidden;
   background: #fff;
   box-shadow: 0 10px 24px rgba(47, 71, 57, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.program-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 32px rgba(47, 71, 57, 0.14);
 }
 
 .program-card img {
@@ -216,8 +247,8 @@ ol {
   margin: 0 auto;
   padding: 2rem;
   border: 1px solid var(--border);
-  border-radius: 16px;
-  background: #fff;
+  border-radius: 20px;
+  background: var(--surface);
   box-shadow: 0 12px 30px rgba(47, 71, 57, 0.12);
 }
 
@@ -254,6 +285,13 @@ ol {
   font-size: 0.75rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  background: var(--surface-strong);
+  transition: all 0.2s ease;
+}
+
+.archive-categories a:hover {
+  border-color: var(--accent-light);
+  background: rgba(108, 136, 112, 0.12);
 }
 
 .post-list {
@@ -267,9 +305,9 @@ ol {
   grid-template-columns: minmax(0, 240px) minmax(0, 1fr);
   gap: 1.5rem;
   border: 1px solid var(--border);
-  border-radius: 16px;
+  border-radius: 22px;
   overflow: hidden;
-  background: #fff;
+  background: var(--surface);
   box-shadow: 0 12px 24px rgba(47, 71, 57, 0.08);
 }
 
@@ -322,6 +360,11 @@ ol {
 .post-body {
   max-width: 850px;
   margin: 0 auto;
+  background: var(--surface);
+  border-radius: 24px;
+  border: 1px solid var(--border);
+  padding: 2.5rem 3rem;
+  box-shadow: var(--shadow);
 }
 
 .post-body figure {
@@ -365,7 +408,25 @@ ol {
     align-items: flex-start;
   }
 
+  .page {
+    padding: 2rem 1.75rem;
+  }
+
+  .post-body {
+    padding: 2rem 1.75rem;
+  }
+
   .post-card {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .site-main {
+    padding: 2.5rem 1rem 4rem;
+  }
+
+  .page {
+    padding: 1.75rem 1.25rem;
   }
 }

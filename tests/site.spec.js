@@ -1,7 +1,9 @@
-const { test, expect } = require("@playwright/test");
-const fs = require("fs");
-const path = require("path");
+import { test, expect } from "@playwright/test";
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const programsPath = path.join(__dirname, "..", "content", "programs.json");
 const programs = JSON.parse(fs.readFileSync(programsPath, "utf8"));
 
