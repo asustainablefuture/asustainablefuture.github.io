@@ -31,3 +31,8 @@
 
 ## Updating navigation
 - Edit `content/site.json` to add/remove nav items or update the footer text.
+
+## Deployment
+- GitHub Pages deployment is configured through `.github/workflows/deploy-pages.yml`.
+- Static export is enabled in `next.config.mjs` with `output: "export"` and `trailingSlash: true`.
+- This config assumes the production site is a root Pages site such as `https://asustainablefuture.github.io/`, not a project site under a subpath.
