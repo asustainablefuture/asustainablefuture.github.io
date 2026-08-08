@@ -144,7 +144,7 @@ Do not purchase a large contact database or full outreach platform before the Po
 
 The domain currently has no mail-routing or authentication records, so none of the requested `@asustainablefuture.org` addresses can receive mail. First inspect the existing Squarespace account for any Google Workspace entitlement; do not create a duplicate subscription.
 
-Squarespace Domains currently includes up to 100 inbound email-forwarding addresses at no extra cost. This creates a useful zero-cost bridge: the four requested addresses can forward to confirmed organization-controlled inboxes. Forwarding is not a mailbox, separate sign-in, shared conversation system, or dependable authenticated outbound identity, so the website should keep the temporary ASF Gmail reply route until a domain-address inbound test passes and outbound identity is intentionally configured. Do not guess Tara's destination inbox.
+[Squarespace Domains](https://domains.squarespace.com/google-domains) currently includes up to 100 inbound email-forwarding addresses at no extra cost. This creates a useful zero-cost bridge: the four requested addresses can forward to confirmed organization-controlled inboxes. Forwarding is not a mailbox, separate sign-in, shared conversation system, or dependable authenticated outbound identity, so the website should keep the temporary ASF Gmail reply route until a domain-address inbound test passes and outbound identity is intentionally configured. Do not guess Tara's destination inbox.
 
 If accountable two-way domain mail is required and there is no existing entitlement, the minimum Google Workspace design is two Business Starter users—`dhruv@` and `tara@`—plus no-license group or alias addresses for `contact@` and `support@`. Google says aliases and group addresses do not count toward user licenses; shared public addresses are better configured as groups so both accountable users can receive and manage them. Google's official U.S. pricing currently lists Business Starter at $7 per user per month on a one-year commitment or $8.40 per user per month on the flexible plan. The two-seat gate is therefore **$14/month with a one-year commitment or $16.80/month flexible, before tax and any reseller/account-specific pricing**. No subscription should be accepted until the provider shows the exact checkout terms and the user approves them.
 
@@ -178,7 +178,7 @@ Never count an opened email as impact. Energy savings should be utility-verified
 
 ### Days 1–30: establish trust and validate data
 
-- Configure authenticated domain email with SPF, DKIM, and DMARC after the user approves any required subscription.
+- Establish and test the chosen email route: verified Squarespace inbound forwarding or, after subscription approval, authenticated two-way domain email with MX, SPF, DKIM, and DMARC.
 - Publish the Oregon-focused website and plain-language guide.
 - Adopt independence, privacy, records-retention, correction, and do-not-contact policies.
 - Import and deduplicate the Portland public dataset; manually audit a random sample of 50 records.
