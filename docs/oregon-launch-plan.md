@@ -127,6 +127,12 @@ These are planning ranges, not vendor quotes:
 
 Do not purchase a large contact database or full outreach platform before the Portland pilot demonstrates contactability and service conversion.
 
+### Domain-email purchase gate
+
+The domain currently has no mail-routing or authentication records, so none of the requested `@asustainablefuture.org` addresses can receive mail. First inspect the existing Squarespace account for any Google Workspace entitlement; do not create a duplicate subscription.
+
+If there is no entitlement, the minimum accountable Google Workspace design is two Business Starter users—`dhruv@` and `tara@`—plus no-license group or alias addresses for `contact@` and `support@`. Google says aliases and group addresses do not count toward user licenses; shared public addresses are better configured as groups so both accountable users can receive and manage them. Google's official U.S. pricing currently lists Business Starter at $7 per user per month on a one-year commitment or $8.40 per user per month on the flexible plan. The two-seat gate is therefore **$14/month with a one-year commitment or $16.80/month flexible, before tax and any reseller/account-specific pricing**. No subscription should be accepted until the provider shows the exact checkout terms and the user approves them.
+
 ## Measurement
 
 The north-star metric is **verified annual site energy reduced per dollar and per staff/volunteer hour**, with reporting completion as a leading indicator.
