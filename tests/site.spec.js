@@ -7,10 +7,28 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const programsPath = path.join(__dirname, "..", "content", "programs.json");
 const programs = JSON.parse(fs.readFileSync(programsPath, "utf8"));
 
-test("home page renders hero", async ({ page }) => {
+test("home page presents Oregon support and independence", async ({ page }) => {
   await page.goto("/");
   await expect(page).toHaveTitle(/A Sustainable Future/i);
-  await expect(page.locator("h1", { hasText: "A Sustainable Future" })).toBeVisible();
+  await expect(page.getByRole("heading", { level: 1, name: /Turn energy reporting into energy saved/i })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Request free support" })).toHaveAttribute("href", /^mailto:/);
+  await expect(page.getByText(/We do not represent or speak for the State of Oregon/i)).toBeVisible();
+});
+
+test("Oregon building guide exposes deadlines and primary sources", async ({ page }) => {
+  await page.goto("/oregon-building-support/");
+  await expect(page.getByRole("heading", { level: 1, name: /Know what applies/i })).toBeVisible();
+  await expect(page.getByText("June 1, 2028", { exact: true })).toBeVisible();
+  await expect(page.getByText("July 1, 2028", { exact: true }).first()).toBeVisible();
+  await expect(page.getByRole("link", { name: /ODOE Building Performance Standard/i })).toHaveAttribute("href", /oregon\.gov/);
+});
+
+test("mobile navigation remains usable", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/");
+  await page.locator("summary[aria-label='Open navigation']").click();
+  await expect(page.getByRole("navigation", { name: "Primary navigation" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Get free help" })).toBeVisible();
 });
 
 test("programs page shows free banner and cards", async ({ page }) => {

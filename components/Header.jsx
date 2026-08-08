@@ -15,14 +15,17 @@ export default function Header({ nav = [], logo, title }) {
           ) : (
             <span>{title || "A Sustainable Future"}</span>
           )}
+          <span className="logo-type">A Sustainable<br />Future</span>
         </Link>
-        <nav className="site-nav">
-          {nav.map((item) => (
-            <Link key={item.href} href={item.href}>
-              {item.label}
-            </Link>
-          ))}
-        </nav>
+        <details className="nav-shell">
+          <summary aria-label="Open navigation"><span /><span /><span /></summary>
+          <nav className="site-nav" aria-label="Primary navigation">
+            {nav.map((item) => (
+              <Link key={item.href} href={item.href}>{item.label}</Link>
+            ))}
+            <a className="nav-cta" href="mailto:asustainablefuturetechnology@gmail.com?subject=Oregon%20building%20support%20request">Get free help</a>
+          </nav>
+        </details>
       </div>
     </header>
   );

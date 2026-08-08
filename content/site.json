@@ -1,24 +1,16 @@
 {
   "title": "A Sustainable Future",
-  "description": "Harnessing and sharing the power of data to create mindful, sustainable resource consumption habits in the academic setting, one school at a time.",
+  "description": "Free, independent support for Oregon building energy reporting and measurable savings.",
   "logo": "/static.wixstatic.com/media/e92ca0_03b5538655ea48e48292a03677e2a28f~mv2.png/v1/fill/w_234,h_234,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/A Sustainable Future Logo.png",
   "nav": [
-    { "label": "Home", "href": "/" },
-    { "label": "About", "href": "/about" },
-    { "label": "Programs", "href": "/programs" },
-    { "label": "Paper Consumption Model", "href": "/paper-consumption-model" },
-    { "label": "Quick Facts Guide", "href": "/quick-facts-guide" },
-    { "label": "Environmental Help Center", "href": "/environmental-help-center" },
-    { "label": "Resources", "href": "/resources" },
-    { "label": "Research", "href": "/research" },
-    { "label": "Sustainability Presentations", "href": "/sustainability-presentations" },
-    { "label": "Recipes", "href": "/recipes" },
-    { "label": "Gallery", "href": "/gallery" },
-    { "label": "Executive Team", "href": "/executive-team" },
-    { "label": "Archive", "href": "/archive" }
+    { "label": "Free support", "href": "/#services" },
+    { "label": "Oregon guide", "href": "/oregon-building-support" },
+    { "label": "How it works", "href": "/#process" },
+    { "label": "About", "href": "/#about" },
+    { "label": "Resources", "href": "/archive" }
   ],
   "footer": {
-    "tagline": "Harnessing the power of data and technology to advocate for sustainable paper consumption in academia.",
+    "tagline": "Turning clear data and accessible support into measurable energy savings.",
     "note": "© 2026 A Sustainable Future Network. All rights reserved."
   }
 }

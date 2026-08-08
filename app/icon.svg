@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="A Sustainable Future">
+  <rect width="64" height="64" rx="10" fill="#073f34"/>
+  <path d="M16 40c7-1 12-5 15-12 3 7 8 11 17 12" fill="none" stroke="#d9ee60" stroke-width="4" stroke-linecap="round"/>
+  <path d="M32 42V21" fill="none" stroke="#f6f3e9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M32 28c-8 0-12-4-13-10 8-1 13 2 13 10Zm0-2c7 0 11-4 12-10-7 0-12 3-12 10Z" fill="#8bca6a"/>
+</svg>
