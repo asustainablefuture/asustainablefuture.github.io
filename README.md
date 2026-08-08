@@ -2,6 +2,8 @@
 
 React/Next.js rebuild of the A Sustainable Future site using locally stored Wix assets and extracted content blocks. Pages render from JSON in `content/` to keep edits simple.
 
+The Oregon-focused public site is deployed from this repository to <https://www.asustainablefuture.org/> with GitHub Pages. The earlier Wix-era text and routes remain in `content/`; locally mirrored media is preferred, with the original Wix CDN used only when an archived image variant is not present in `public/`.
+
 ## Quick start
 
 ```bash

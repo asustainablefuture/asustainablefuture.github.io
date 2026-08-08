@@ -37,7 +37,7 @@ export default function HomePage() {
             </Link>
           </div>
           <p className="trust-note">
-            Independent nonprofit initiative &middot; No sales pressure &middot; We do
+            Independent public-interest initiative &middot; No sales pressure &middot; We do
             not represent or speak for the State of Oregon
           </p>
         </div>

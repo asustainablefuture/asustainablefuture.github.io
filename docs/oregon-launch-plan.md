@@ -8,6 +8,19 @@ A Sustainable Future should launch as a free, independent **readiness and naviga
 
 The organization should not position itself as ODOE, a regulator, an energy auditor, an engineer, or a compliance certifier. ODOE expressly warns building owners that third-party solicitations can look official and that the agency does not endorse individual businesses. Every outreach, intake, and website page should say that A Sustainable Future is independent and that official instructions control.
 
+## Current launch baseline
+
+This plan separates completed infrastructure from launch work that still needs an accountable owner:
+
+| Area | Current state | Launch condition |
+| --- | --- | --- |
+| Public website and Oregon guide | Live on GitHub Pages | Keep official-source links and dated claims under review. |
+| Domain email | No MX or authentication records; requested addresses do not receive mail | Choose and verify either the free inbound-forwarding bridge or accountable mailboxes described below. |
+| Public intake | Temporary ASF Gmail mailto route | Publish a domain address only after end-to-end delivery passes. Do not request bills or notices until restricted storage and retention rules exist. |
+| Privacy, correction, retention, and do-not-contact rules | Required by this plan, not yet evidenced as adopted | Name the data steward and approve the written rules before importing owner/contact data. |
+| Portland pilot dataset and CRM | Not evidenced as imported or operating | Define the schema, import the public dataset, deduplicate it, and audit a random sample of 50. |
+| Partnerships and qualified handoffs | Outreach targets identified; no relationship should be assumed | Obtain partner feedback and recruit at least three qualified professionals before representing a referral path as available. |
+
 ## What the law currently requires
 
 Oregon's Building Performance Standard is in [ORS 469.275–469.291](https://www.oregonlegislature.gov/bills_laws/ors/ors469.html) and [OAR chapter 330, division 300](https://secure.sos.state.or.us/oard/displayDivisionRules.action?selectedDivision=7304). It is based on ASHRAE Standard 100 with Oregon amendments. ODOE's [program page](https://www.oregon.gov/energy/save-energy/Pages/BPS.aspx), [compliance guide](https://www.oregon.gov/energy/save-energy/Documents/BPS001-compliance.pdf), and [FAQ](https://www.oregon.gov/energy/save-energy/Documents/BPS-FAQs.pdf) are the primary operational references.
@@ -77,7 +90,7 @@ Ask ODOE for a transparent partnership or referral process. The ideal arrangemen
 
 ## Outreach strategy
 
-The core message is: “We are an independent nonprofit initiative offering free administrative and data-readiness help. We do not represent ODOE, and official requirements control.” The first message should name the public source used, state why the building may be relevant without declaring it covered, link to the official ODOE page, explain the bounded free service, and include a one-step opt-out.
+The core message is: “We are an independent public-interest initiative offering free administrative and data-readiness help. We do not represent ODOE, and official requirements control.” Use “nonprofit” or “tax-exempt” only after the organization’s current legal status has been verified. The first message should name the public source used, state why the building may be relevant without declaring it covered, link to the official ODOE page, explain the bounded free service, and include a one-step opt-out.
 
 Use four trigger windows:
 
@@ -127,11 +140,21 @@ These are planning ranges, not vendor quotes:
 
 Do not purchase a large contact database or full outreach platform before the Portland pilot demonstrates contactability and service conversion.
 
-### Domain-email purchase gate
+### Domain-email launch gate
 
 The domain currently has no mail-routing or authentication records, so none of the requested `@asustainablefuture.org` addresses can receive mail. First inspect the existing Squarespace account for any Google Workspace entitlement; do not create a duplicate subscription.
 
-If there is no entitlement, the minimum accountable Google Workspace design is two Business Starter users—`dhruv@` and `tara@`—plus no-license group or alias addresses for `contact@` and `support@`. Google says aliases and group addresses do not count toward user licenses; shared public addresses are better configured as groups so both accountable users can receive and manage them. Google's official U.S. pricing currently lists Business Starter at $7 per user per month on a one-year commitment or $8.40 per user per month on the flexible plan. The two-seat gate is therefore **$14/month with a one-year commitment or $16.80/month flexible, before tax and any reseller/account-specific pricing**. No subscription should be accepted until the provider shows the exact checkout terms and the user approves them.
+Squarespace Domains currently includes up to 100 inbound email-forwarding addresses at no extra cost. This creates a useful zero-cost bridge: the four requested addresses can forward to confirmed organization-controlled inboxes. Forwarding is not a mailbox, separate sign-in, shared conversation system, or dependable authenticated outbound identity, so the website should keep the temporary ASF Gmail reply route until a domain-address inbound test passes and outbound identity is intentionally configured. Do not guess Tara's destination inbox.
+
+If accountable two-way domain mail is required and there is no existing entitlement, the minimum Google Workspace design is two Business Starter users—`dhruv@` and `tara@`—plus no-license group or alias addresses for `contact@` and `support@`. Google says aliases and group addresses do not count toward user licenses; shared public addresses are better configured as groups so both accountable users can receive and manage them. Google's official U.S. pricing currently lists Business Starter at $7 per user per month on a one-year commitment or $8.40 per user per month on the flexible plan. The two-seat gate is therefore **$14/month with a one-year commitment or $16.80/month flexible, before tax and any reseller/account-specific pricing**. No subscription should be accepted until the provider shows the exact checkout terms and the user approves them.
+
+After provider access is restored, execute in this order:
+
+1. Confirm the domain, renewal settings, recovery owners, existing forwarding rules, and any Workspace entitlement in the Squarespace account.
+2. Choose the no-cost forwarding bridge or the paid two-mailbox design; record the confirmed destination/owner for each address.
+3. For forwarding, test outside-to-domain delivery for all four addresses and replies through the temporary public mailbox; label it inbound forwarding, not a mailbox.
+4. For Workspace, configure MX and SPF, generate and publish DKIM, publish a monitoring DMARC policy, then test inbound, outbound, reply, group/alias routing, spam placement, and both users' recovery routes.
+5. Only after those tests pass, replace the website's temporary Gmail mailto links with `contact@asustainablefuture.org`.
 
 ## Measurement
 
@@ -201,6 +224,7 @@ Gate to scale: at least 25 reporting-ready buildings or a documented equivalent 
 
 1. Approve the independent readiness-service position and no-affiliation language.
 2. Approve a 90-day Portland-first pilot rather than statewide mass outreach.
-3. Approve only the minimum email subscription required for two accountable users, using aliases or groups for shared addresses where the provider permits it.
-4. Name a program lead and data steward before importing contact information.
-5. Seek partner and counsel review before any cold-call campaign.
+3. Choose zero-cost inbound forwarding or approve the exact paid terms for two accountable mailboxes after the existing account is inspected.
+4. Confirm the destination/owner for each requested address, especially Tara's.
+5. Name a program lead and data steward before importing contact information.
+6. Seek partner and counsel review before any cold-call campaign.
