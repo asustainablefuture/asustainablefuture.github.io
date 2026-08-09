@@ -23,7 +23,7 @@ export default function Header({ nav = [], logo, title }) {
             {nav.map((item) => (
               <Link key={item.href} href={item.href}>{item.label}</Link>
             ))}
-            <a className="nav-cta" href="mailto:asustainablefuturetechnology@gmail.com?subject=Oregon%20building%20support%20request">Get free help</a>
+            <a className="nav-cta" href="mailto:support@asustainablefuture.org?subject=Oregon%20building%20support%20request">Get free help</a>
           </nav>
         </details>
       </div>

@@ -28,7 +28,7 @@ export default function HomePage() {
           <div className="button-row">
             <a
               className="button button-primary"
-              href="mailto:asustainablefuturetechnology@gmail.com?subject=Oregon%20building%20support%20request&body=Building%20address%3A%0AApproximate%20square%20feet%3A%0ABuilding%20type%3A%0AWhat%20would%20you%20like%20help%20with%3F%0A"
+              href="mailto:support@asustainablefuture.org?subject=Oregon%20building%20support%20request&body=Building%20address%3A%0AApproximate%20square%20feet%3A%0ABuilding%20type%3A%0AWhat%20would%20you%20like%20help%20with%3F%0A"
             >
               Request free support
             </a>
@@ -151,7 +151,7 @@ export default function HomePage() {
       <section className="section container">
         <div className="cta-panel">
           <div><p className="eyebrow">No-cost building support</p><h2>Have a notice, a spreadsheet, or just an address?</h2><p>Start where you are. We&apos;ll help turn it into a practical plan.</p></div>
-          <a className="button button-light" href="mailto:asustainablefuturetechnology@gmail.com?subject=Oregon%20building%20support%20request">Start a conversation</a>
+          <a className="button button-light" href="mailto:contact@asustainablefuture.org?subject=Oregon%20building%20support%20request">Start a conversation</a>
         </div>
         <p className="legal-note">
           A Sustainable Future is an independent organization and is not affiliated

@@ -18,7 +18,7 @@ export default function OregonBuildingSupportPage() {
         <p className="eyebrow">Oregon building performance standard</p>
         <h1>Know what applies. Gather the right data. Start early.</h1>
         <p>Use this guide for orientation, then verify your building and submission requirements with the Oregon Department of Energy.</p>
-        <div className="button-row"><a className="button button-primary" href="mailto:asustainablefuturetechnology@gmail.com?subject=Oregon%20BPS%20readiness%20help">Ask for free help</a><a className="button button-secondary" href={bps}>Open the official ODOE page</a></div>
+        <div className="button-row"><a className="button button-primary" href="mailto:support@asustainablefuture.org?subject=Oregon%20BPS%20readiness%20help">Ask for free help</a><a className="button button-secondary" href={bps}>Open the official ODOE page</a></div>
       </header>
 
       <nav className="guide-nav" aria-label="On this page">
