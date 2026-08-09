@@ -47,3 +47,32 @@ test("paid program pages are free placeholders", async ({ page }) => {
     page.locator("text=Program materials will be added")
   ).toBeVisible();
 });
+
+test("serif typography loads and public layouts do not overflow", async ({ page }) => {
+  const routes = ["/", "/oregon-building-support/", "/archive/", "/programs/"];
+  const viewports = [
+    { width: 1440, height: 1000 },
+    { width: 390, height: 844 },
+  ];
+
+  for (const viewport of viewports) {
+    await page.setViewportSize(viewport);
+    for (const route of routes) {
+      await page.goto(route);
+      await page.evaluate(() => document.fonts.ready);
+
+      const layout = await page.evaluate(() => ({
+        bodyFont: getComputedStyle(document.body).fontFamily,
+        viewportWidth: document.documentElement.clientWidth,
+        contentWidth: document.documentElement.scrollWidth,
+        regularLoaded: document.fonts.check('400 19px "Cormorant Garamond"'),
+        boldLoaded: document.fonts.check('700 48px "Cormorant Garamond"'),
+      }));
+
+      expect(layout.bodyFont).toContain("Cormorant Garamond");
+      expect(layout.regularLoaded).toBe(true);
+      expect(layout.boldLoaded).toBe(true);
+      expect(layout.contentWidth).toBeLessThanOrEqual(layout.viewportWidth);
+    }
+  }
+});
