@@ -15,7 +15,6 @@ export default function OregonBuildingSupportPage() {
   return (
     <article className="guide-page container">
       <header className="guide-hero">
-        <p className="eyebrow">Oregon building performance standard</p>
         <h1>Know what applies. Gather the right data. Start early.</h1>
         <p>Use this guide for orientation, then verify your building and submission requirements with the Oregon Department of Energy.</p>
         <div className="button-row"><a className="button button-primary" href="mailto:support@asustainablefuture.org?subject=Oregon%20BPS%20readiness%20help">Ask for free help</a><a className="button button-secondary" href={bps}>Open the official ODOE page</a></div>
@@ -26,7 +25,7 @@ export default function OregonBuildingSupportPage() {
       </nav>
 
       <section id="coverage" className="guide-section">
-        <p className="eyebrow">Coverage screen</p><h2>Start with use and gross floor area.</h2>
+        <h2>Start with use and gross floor area.</h2>
         <div className="comparison-table" role="table" aria-label="Oregon BPS coverage summary">
           <div className="comparison-row comparison-head" role="row"><span>Building</span><span>Likely tier</span><span>First due date</span></div>
           <div className="comparison-row" role="row"><span>Nonresidential, hotel, or motel, 200,000+ sq ft</span><span>Tier 1</span><span>June 1, 2028</span></div>
@@ -39,7 +38,7 @@ export default function OregonBuildingSupportPage() {
       </section>
 
       <section id="deadlines" className="guide-section">
-        <p className="eyebrow">Different obligations</p><h2>Tier 1 must demonstrate performance or an approved pathway. Tier 2 currently reports data.</h2>
+        <h2>Tier 1 must demonstrate performance or an approved pathway. Tier 2 currently reports data.</h2>
         <div className="plain-grid">
           <div><h3>Tier 1</h3><p>Calculate energy use intensity and the applicable target; maintain an operations and maintenance program and an energy management plan; meet the target, document an exemption, or follow an available conditional-compliance pathway. Buildings expecting to exceed the target may need a qualified audit, life-cycle cost analysis, and advance reporting.</p></div>
           <div><h3>Tier 2</h3><p>Report energy use intensity and the applicable target by July 1, 2028 and every five years. Oregon law does not currently require Tier 2 owners to meet a performance target, and ODOE guidance says there are currently no Tier 2 penalties.</p></div>
@@ -48,7 +47,7 @@ export default function OregonBuildingSupportPage() {
       </section>
 
       <section id="prepare" className="guide-section">
-        <p className="eyebrow">Readiness checklist</p><h2>Build the record before the deadline becomes urgent.</h2>
+        <h2>Build the record before the deadline becomes urgent.</h2>
         <ol className="check-list">
           <li><span>1</span><div><h3>Confirm the building record</h3><p>Gather legal ownership, address, ODOE/UBID or BEAM record, gross floor area, primary and secondary uses, occupancy, and parking area.</p></div></li>
           <li><span>2</span><div><h3>Map every energy source</h3><p>List electric, gas, district energy, delivered fuels, onsite generation, tenant meters, account holders, and at least 12 continuous months of consumption.</p></div></li>
@@ -60,13 +59,13 @@ export default function OregonBuildingSupportPage() {
       </section>
 
       <section id="portland" className="guide-section">
-        <p className="eyebrow">City + state</p><h2>Portland reporting is separate.</h2>
+        <h2>Portland reporting is separate.</h2>
         <p>Portland generally requires commercial buildings 20,000 square feet and larger to report annual energy performance by April 22. Coverage and exemptions differ from the state program. A Portland building may have to satisfy both city and state requirements, on different schedules.</p>
         <a className="inline-action" href={portland}>Review Portland&apos;s official commercial reporting page <span aria-hidden="true">&rarr;</span></a>
       </section>
 
       <section id="resources" className="guide-section">
-        <p className="eyebrow">Primary sources</p><h2>Use official instructions for decisions and submissions.</h2>
+        <h2>Use official instructions for decisions and submissions.</h2>
         <div className="resource-list">
           <a href={bps}><strong>ODOE Building Performance Standard</strong><span>Current program notices, guidance, tools, professional lists, and contacts</span></a>
           <a href={compliance}><strong>ODOE Tier 1 and Tier 2 compliance guide</strong><span>Coverage, forms, pathways, and reporting overview</span></a>

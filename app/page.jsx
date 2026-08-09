@@ -18,7 +18,6 @@ export default function HomePage() {
     <>
       <section className="hero container" aria-labelledby="hero-title">
         <div className="hero-copy">
-          <p className="eyebrow">Free support for Oregon building owners</p>
           <h1 id="hero-title">Turn energy reporting into energy saved.</h1>
           <p className="hero-lede">
             Oregon&apos;s Building Performance Standard is here. We help owners
@@ -70,7 +69,6 @@ export default function HomePage() {
 
       <section className="section container" id="services">
         <div className="section-heading">
-          <p className="eyebrow">Practical help, not another pitch</p>
           <h2>A calm first step through a complicated process.</h2>
           <p>
             We focus on the early work that often keeps owners from getting
@@ -91,7 +89,7 @@ export default function HomePage() {
       <section className="section section-tint" id="requirements">
         <div className="container">
           <div className="section-heading split-heading">
-            <div><p className="eyebrow">Oregon BPS at a glance</p><h2>Different buildings have different jobs.</h2></div>
+            <div><h2>Different buildings have different jobs.</h2></div>
             <p>These are orientation summaries, not legal advice. Confirm coverage and current instructions with ODOE.</p>
           </div>
           <div className="tier-grid">
@@ -124,7 +122,7 @@ export default function HomePage() {
       </section>
 
       <section className="section container" id="process">
-        <div className="section-heading"><p className="eyebrow">How support works</p><h2>One building, one useful next step at a time.</h2></div>
+        <div className="section-heading"><h2>One building, one useful next step at a time.</h2></div>
         <ol className="process-list">
           <li><span>1</span><div><h3>Tell us what you know</h3><p>An address, approximate floor area, building use, and any ODOE notice are enough to begin.</p></div></li>
           <li><span>2</span><div><h3>Get a written readiness map</h3><p>We summarize likely coverage, deadlines, missing data, official resources, and who should own each task.</p></div></li>
@@ -137,7 +135,6 @@ export default function HomePage() {
         <div className="container story-grid">
           <div className="story-mark"><span>Data</span><span>People</span><span>Impact</span></div>
           <div>
-            <p className="eyebrow">A Sustainable Future</p>
             <h2>Built on the belief that good data should lead to real-world action.</h2>
             <p>A Sustainable Future began with student-led work on resource consumption in schools. Our Oregon building initiative carries that same idea forward: make the information understandable, make help accessible, and measure the energy actually saved.</p>
             <div className="text-links">
@@ -150,7 +147,7 @@ export default function HomePage() {
 
       <section className="section container">
         <div className="cta-panel">
-          <div><p className="eyebrow">No-cost building support</p><h2>Have a notice, a spreadsheet, or just an address?</h2><p>Start where you are. We&apos;ll help turn it into a practical plan.</p></div>
+          <div><h2>Have a notice, a spreadsheet, or just an address?</h2><p>Start where you are. We&apos;ll help turn it into a practical plan.</p></div>
           <a className="button button-light" href="mailto:contact@asustainablefuture.org?subject=Oregon%20building%20support%20request">Start a conversation</a>
         </div>
         <p className="legal-note">

@@ -73,6 +73,7 @@ test("serif typography loads and public layouts do not overflow", async ({ page 
       expect(layout.regularLoaded).toBe(true);
       expect(layout.boldLoaded).toBe(true);
       expect(layout.contentWidth).toBeLessThanOrEqual(layout.viewportWidth);
+      await expect(page.locator(".eyebrow")).toHaveCount(0);
     }
   }
 });

@@ -477,10 +477,6 @@ ol {
   gap: 2.5rem 4rem;
 }
 
-.footer-brand .eyebrow {
-  color: #bfcdb7;
-}
-
 .footer-brand h3 {
   max-width: 700px;
   margin: 0;
@@ -537,16 +533,6 @@ ol {
 .hero-copy {
   position: relative;
   z-index: 2;
-}
-
-.eyebrow {
-  margin: 0 0 0.85rem;
-  color: var(--forest);
-  font-family: var(--sans);
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
 }
 
 .hero h1,
@@ -908,7 +894,7 @@ ol {
   line-height: 0.92;
 }
 
-.story-grid > div:last-child > p:not(.eyebrow) {
+.story-grid > div:last-child > p {
   color: #46554f;
   font-size: 1.05rem;
 }
@@ -937,10 +923,6 @@ ol {
   border: 1px solid var(--forest-deep);
   background: var(--forest);
   color: #fff;
-}
-
-.cta-panel .eyebrow {
-  color: #cbd8c5;
 }
 
 .cta-panel h2 {
@@ -980,7 +962,7 @@ ol {
   font-size: clamp(3.7rem, 7vw, 6.4rem);
 }
 
-.guide-hero > p:not(.eyebrow) {
+.guide-hero > p {
   max-width: 760px;
   color: var(--muted);
   font-size: 1.22rem;
