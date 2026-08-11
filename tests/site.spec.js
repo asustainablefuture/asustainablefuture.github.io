@@ -203,5 +203,7 @@ test("shared spacing stays bounded and content images reserve exact geometry", a
       (element) => getComputedStyle(element).alignItems
     );
     expect(archiveAlignment).toBe("start");
+    expect(await page.locator(".post-card").count()).toBeGreaterThan(60);
+    await expect(page.locator(".post-card__placeholder")).toHaveCount(0);
   }
 });

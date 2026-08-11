@@ -4,13 +4,11 @@ import { formatDate } from "../lib/format";
 export default function PostCard({ post }) {
   return (
     <article className="post-card">
-      <Link href={`/post/${post.slug}`} className="post-card__image">
-        {post.coverImage ? (
+      {post.coverImage ? (
+        <Link href={`/post/${post.slug}`} className="post-card__image">
           <img src={post.coverImage} alt={post.title} loading="lazy" />
-        ) : (
-          <div className="post-card__placeholder" />
-        )}
-      </Link>
+        </Link>
+      ) : null}
       <div className="post-card__body">
         <div className="post-card__meta">
           <span>{formatDate(post.date)}</span>
