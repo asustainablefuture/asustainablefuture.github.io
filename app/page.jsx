@@ -44,7 +44,6 @@ export default function HomePage() {
           <div className="orbit orbit-one" />
           <div className="orbit orbit-two" />
           <div className="impact-card impact-card-main">
-            <span className="impact-kicker">Start here</span>
             <strong>Know your building</strong>
             <span>type &middot; size &middot; energy use</span>
           </div>

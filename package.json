@@ -7,8 +7,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "extract": "node scripts/extract-content.mjs",
-    "test": "playwright test"
+    "extract": "node scripts/extract-content.mjs && npm run image-dimensions",
+    "test": "playwright test",
+    "image-dimensions": "node scripts/generate-image-dimensions.mjs"
   },
   "repository": {
     "type": "git",
@@ -24,7 +25,8 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.57.0",
-    "cheerio": "^1.1.2"
+    "cheerio": "^1.1.2",
+    "sharp": "^0.34.5"
   },
   "type": "module",
   "bugs": {
