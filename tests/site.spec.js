@@ -9,19 +9,29 @@ const programs = JSON.parse(fs.readFileSync(programsPath, "utf8"));
 const prohibitedLabels =
   ".eyebrow, .kicker, .overline, [class*='eyebrow'], [class*='kicker'], [class*='overline']";
 
-test("home page presents Oregon support and independence", async ({ page }) => {
+test("home page leads with Washington Tier 2 support and independence", async ({ page }) => {
   await page.goto("/", { waitUntil: "domcontentloaded" });
   await expect(page).toHaveTitle(/A Sustainable Future/i);
-  await expect(page.getByRole("heading", { level: 1, name: /Turn energy reporting into energy saved/i })).toBeVisible();
-  await expect(page.getByRole("link", { name: "Request free support" })).toHaveAttribute("href", /^mailto:/);
-  await expect(page.getByText(/We do not represent or speak for the State of Oregon/i)).toBeVisible();
+  await expect(page.getByRole("heading", { level: 1, name: /Free Washington Tier 2 readiness help/i })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Ask for free help" })).toHaveAttribute("href", /^mailto:support@asustainablefuture\.org/);
+  await expect(page.getByText(/Not affiliated with or endorsed by the Washington State Department of Commerce/i).first()).toBeVisible();
+  await expect(page.getByText("July 1, 2027", { exact: true })).toBeVisible();
 });
 
-test("Oregon building guide exposes deadlines and primary sources", async ({ page }) => {
+test("Washington guide exposes current requirements and Commerce sources", async ({ page }) => {
+  await page.goto("/washington-tier-2/", { waitUntil: "domcontentloaded" });
+  await expect(page.getByRole("heading", { level: 1, name: /Prepare for Washington Tier 2 by July 1, 2027/i })).toBeVisible();
+  await expect(page.getByRole("heading", { level: 3, name: /Benchmark energy use/i })).toBeVisible();
+  await expect(page.getByRole("heading", { level: 3, name: /Implement an O&M program/i })).toBeVisible();
+  await expect(page.getByRole("heading", { level: 3, name: /Create an energy management plan/i })).toBeVisible();
+  await expect(page.getByRole("link", { name: /Commerce Tier 2 compliance/i })).toHaveAttribute("href", /commerce\.wa\.gov/);
+  await expect(page.getByText(/not currently required to meet a performance metric/i)).toBeVisible();
+  await expect(page.getByText(/requires a qualified energy manager/i)).toBeVisible();
+});
+
+test("Oregon guide remains available as a secondary resource", async ({ page }) => {
   await page.goto("/oregon-building-support/", { waitUntil: "domcontentloaded" });
   await expect(page.getByRole("heading", { level: 1, name: /Know what applies/i })).toBeVisible();
-  await expect(page.getByText("June 1, 2028", { exact: true })).toBeVisible();
-  await expect(page.getByText("July 1, 2028", { exact: true }).first()).toBeVisible();
   await expect(page.getByRole("link", { name: /ODOE Building Performance Standard/i })).toHaveAttribute("href", /oregon\.gov/);
 });
 
@@ -50,8 +60,17 @@ test("paid program pages are free placeholders", async ({ page }) => {
   ).toBeVisible();
 });
 
+test("Paper Consumption Model points to the dedicated paper site", async ({ page }) => {
+  await page.goto("/paper-consumption-model/", { waitUntil: "domcontentloaded" });
+  await expect(page.getByRole("heading", { level: 1, name: /dedicated home/i })).toBeVisible();
+  await expect(page.getByRole("link", { name: /Open the Paper Consumption Model/i })).toHaveAttribute(
+    "href",
+    "https://paper.asustainablefuture.org/paper-consumption-model/",
+  );
+});
+
 test("serif typography and flat layouts hold at all audited widths", async ({ page }) => {
-  test.slow();
+  test.setTimeout(240_000);
   await page.route("**/*", (route) => {
     if (route.request().resourceType() === "image") {
       return route.abort();
@@ -60,7 +79,9 @@ test("serif typography and flat layouts hold at all audited widths", async ({ pa
   });
   const routes = [
     "/",
+    "/washington-tier-2/",
     "/oregon-building-support/",
+    "/paper-consumption-model/",
     "/programs/",
     "/about/",
     "/environmental-help-center/",
@@ -68,9 +89,10 @@ test("serif typography and flat layouts hold at all audited widths", async ({ pa
     "/resources/",
   ];
   const viewports = [
-    { width: 1440, height: 1000 },
-    { width: 1000, height: 1000 },
-    { width: 390, height: 844 },
+    { width: 1920, height: 1080 },
+    { width: 1024, height: 1024 },
+    { width: 768, height: 1024 },
+    { width: 412, height: 915 },
   ];
 
   for (const viewport of viewports) {

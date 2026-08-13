@@ -1,13 +1,13 @@
 {
   "title": "A Sustainable Future",
-  "description": "Free, independent support for Oregon building energy reporting and measurable savings.",
+  "description": "Free, independent readiness support for Washington Tier 2 building owners.",
   "logo": "/static.wixstatic.com/media/e92ca0_03b5538655ea48e48292a03677e2a28f~mv2.png/v1/fill/w_234,h_234,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/A Sustainable Future Logo.png",
   "nav": [
     { "label": "Free support", "href": "/#services" },
-    { "label": "Oregon guide", "href": "/oregon-building-support" },
+    { "label": "Washington guide", "href": "/washington-tier-2" },
     { "label": "How it works", "href": "/#process" },
-    { "label": "About", "href": "/#about" },
-    { "label": "Resources", "href": "/archive" }
+    { "label": "Oregon", "href": "/oregon-building-support" },
+    { "label": "Archive", "href": "/archive" }
   ],
   "footer": {
     "tagline": "Turning clear data and accessible support into measurable energy savings.",

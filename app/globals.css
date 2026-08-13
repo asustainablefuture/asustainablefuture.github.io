@@ -369,6 +369,15 @@ ol {
   text-transform: uppercase;
 }
 
+.paper-handoff {
+  max-width: 760px;
+}
+
+.paper-handoff h1 {
+  margin-top: 0;
+  font-size: clamp(2.7rem, 6vw, 4.8rem);
+}
+
 .archive-categories {
   display: flex;
   flex-wrap: wrap;
@@ -531,7 +540,7 @@ ol {
   font-size: inherit;
 }
 
-/* Oregon building support landing page */
+/* Building support landing page */
 .hero {
   display: grid;
   min-height: 0;
@@ -950,7 +959,7 @@ ol {
   text-decoration: underline;
 }
 
-/* Long-form Oregon guide */
+/* Long-form building guides */
 .guide-page {
   padding: clamp(2.75rem, 4.5vw, 4rem) 1.5rem;
 }
@@ -1062,6 +1071,10 @@ ol {
 .plain-grid h3 {
   margin-top: 0;
   font-size: 1.8rem;
+}
+
+.requirements-grid {
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .inline-action {
@@ -1194,6 +1207,10 @@ summary:focus-visible {
 
   .program-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .requirements-grid {
+    grid-template-columns: 1fr;
   }
 
   .footer-inner {

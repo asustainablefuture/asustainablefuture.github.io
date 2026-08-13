@@ -18,7 +18,8 @@ export default async function sitemap() {
 
   const entries = [
     { url: `${base}/`, priority: 1, changeFrequency: "weekly" },
-    { url: `${base}/oregon-building-support/`, priority: 0.9, changeFrequency: "monthly" },
+    { url: `${base}/washington-tier-2/`, priority: 0.9, changeFrequency: "monthly" },
+    { url: `${base}/oregon-building-support/`, priority: 0.5, changeFrequency: "monthly" },
     { url: `${base}/archive/`, priority: 0.5, changeFrequency: "monthly" },
     { url: `${base}/programs/`, priority: 0.5, changeFrequency: "yearly" },
     ...pages

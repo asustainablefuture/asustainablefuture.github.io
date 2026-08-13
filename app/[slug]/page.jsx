@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import ContentBlocks from "../../components/ContentBlocks";
 import { getAllPages, getPage } from "../../lib/content";
 
-const RESERVED = new Set(["home", "programs", "archive", "post", "challenge-page"]);
+const RESERVED = new Set(["home", "programs", "archive", "post", "challenge-page", "paper-consumption-model", "washington-tier-2", "oregon-building-support"]);
 
 export async function generateStaticParams() {
   const pages = await getAllPages();

@@ -6,17 +6,17 @@ import { getSiteConfig } from "../lib/content";
 export const metadata = {
   metadataBase: new URL("https://www.asustainablefuture.org"),
   title: {
-    default: "A Sustainable Future | Free Oregon building energy support",
+    default: "A Sustainable Future | Free Washington Tier 2 readiness help",
     template: "%s | A Sustainable Future",
   },
   description:
-    "Free, independent help for Oregon building owners preparing for energy reporting and measurable savings.",
+    "Free, independent help for Washington building owners preparing for Tier 2 Clean Buildings reporting by July 1, 2027.",
   openGraph: {
     type: "website",
     locale: "en_US",
     siteName: "A Sustainable Future",
-    title: "Free Oregon building energy support",
-    description: "Understand the requirements, organize your data, and start saving energy.",
+    title: "Free Washington Tier 2 readiness help",
+    description: "Understand the requirements, organize the building record, and prepare for July 1, 2027.",
     url: "https://www.asustainablefuture.org/",
   },
   robots: { index: true, follow: true },
